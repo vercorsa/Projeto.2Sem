@@ -6,9 +6,10 @@ class RegisterScreen extends StatefulWidget {
   static const routeName = '/register';
   const RegisterScreen({Key? key}) : super(key: key);
 
-  @override
+  @override]
   State<RegisterScreen> createState() => _RegisterScreenState();
 }
+
 
 class _RegisterScreenState extends State<RegisterScreen> {
   final _formKey = GlobalKey<FormState>();
