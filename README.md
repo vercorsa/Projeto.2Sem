@@ -1,2 +1,3 @@
-# Projeto.2Sem
-.
+Projeto de validação do meu segundo semestre do cTesp em Aplicações Móveis no IPCA
+o projeto consiste em uma app de gestão de evento, onde o utilizador pode ver, adicionar novos eventos, editar seus eventos publicados, onde também cada evento tem seus dados, como sala em que irá ocorrer, quem será o orador do evento (podendo ter mais de 1 por evento), etc...
+a base de dados foi feita em SQL SERVER pelo Azure, e a API feita em Node.js, já o FrontEnd foi feito em Flutter.
